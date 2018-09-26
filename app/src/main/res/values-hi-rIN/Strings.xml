@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">AndroidLabs</string>
-    <string name="hello_message">namaste</string>
-    <string name="ButtonText">I\'m a button</string>
-</resources>
+
+    <resources>
+        <string name="app_name">AndroidLabs</string>
+        <string name="hello_message">namaste</string>
+        <string name="ButtonText">I\'m a button</string>
+        <string name="login_name">Login</string>
+        <string name="login">login</string>
+        <string name="password">password</string>
+        <string name="name">Name</string>
+
+
+    </resources>
+
+
